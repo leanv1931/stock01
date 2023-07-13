@@ -1,0 +1,20 @@
+/* Estilos para el header */
+header {
+    background-color: #A80059;
+    padding: 10px;
+    overflow: hidden;  
+}
+
+body {
+    background-color: rgb(7, 63, 7);
+   
+}
+  
+h1 {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    font-size: 56px;
+    color: white;
+    
+}
