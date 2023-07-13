@@ -1,13 +1,7 @@
 /* Estilos para el header */
 header {
-    background-color: #A80059;
-    padding: 10px;
-    overflow: hidden;  
-}
-
-body {
-    background-color: rgb(7, 63, 7);
-   
+    background-color: rgb(17, 88, 17);
+    padding: 40px;
 }
   
 h1 {
@@ -17,4 +11,12 @@ h1 {
     font-size: 56px;
     color: white;
     
+}
+
+body {
+    background-color: rgb(7, 63, 7);
+}
+
+h2 {
+    color: white;
 }
