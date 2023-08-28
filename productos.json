@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Sueter de punto cálido",
+    "cantidad": 38,
+    "precio": 45.25,
+    "nombre_proveedor": "ModaFemenina",
+    "eliminado": false
+  },
+  {
+    "nombre": "Vestido de verano estampado",
+    "cantidad": 20,
+    "precio": 32.99,
+    "nombre_proveedor": "EstiloChic",
+    "eliminado": false
+  },
+  {
+    "nombre": "Pantalones vaqueros ajustados",
+    "cantidad": 50,
+    "precio": 39.75,
+    "nombre_proveedor": "DenimDreams",
+    "eliminado": false
+  },
+  {
+    "nombre": "Blusa elegante de seda",
+    "cantidad": 30,
+    "precio": 54.99,
+    "nombre_proveedor": "FashionTrends",
+    "eliminado": false
+  },
+  {
+    "nombre": "Chaqueta de cuero",
+    "cantidad": 15,
+    "precio": 89.95,
+    "nombre_proveedor": "LeatherStyle",
+    "eliminado": false
+  },
+  {
+    "nombre": "Falda plisada de colores",
+    "cantidad": 25,
+    "precio": 28.50,
+    "nombre_proveedor": "ColorfulSkirts",
+    "eliminado": false
+  },
+  {
+    "nombre": "Zapatos de tacón alto",
+    "cantidad": 10,
+    "precio": 65.00,
+    "nombre_proveedor": "ElegantFootwear",
+    "eliminado": false
+  },
+  {
+    "nombre": "Abrigo de lana clásico",
+    "cantidad": 18,
+    "precio": 75.80,
+    "nombre_proveedor": "TimelessCoats",
+    "eliminado": false
+  },
+  {
+    "nombre": "Camiseta básica de algodón",
+    "cantidad": 50,
+    "precio": 12.99,
+    "nombre_proveedor": "EverydayEssentials",
+    "eliminado": false
+  },
+  {
+    "nombre": "Bolso de mano elegante",
+    "cantidad": 22,
+    "precio": 50.00,
+    "nombre_proveedor": "ChicAccessories",
+    "eliminado": false
+  },
+  {
+    "nombre": "Pantalones de vestir",
+    "cantidad": 28,
+    "precio": 42.50,
+    "nombre_proveedor": "FormalFashion",
+    "eliminado": false
+  },
+  {
+    "nombre": "Blusa de encaje elegante",
+    "cantidad": 25,
+    "precio": 34.50,
+    "nombre_proveedor": "EstiloChic",
+    "eliminado": false
+  },
+  {
+    "nombre": "Vestido de noche brillante",
+    "cantidad": 12,
+    "precio": 78.75,
+    "nombre_proveedor": "GlamorousNights",
+    "eliminado": false
+  },
+  {
+    "nombre": "Shorts de tela ligera",
+    "cantidad": 40,
+    "precio": 22.95,
+    "nombre_proveedor": "SummerBreeze",
+    "eliminado": false
+  },
+  {
+    "nombre": "Jersey de cuello alto",
+    "cantidad": 30,
+    "precio": 29.99,
+    "nombre_proveedor": "WarmKnits",
+    "eliminado": false
+  },
+  {
+    "nombre": "Sandalia de tiras elegante",
+    "cantidad": 15,
+    "precio": 54.00,
+    "nombre_proveedor": "StrappyStyle",
+    "eliminado": false
+  },
+  {
+    "nombre": "Falda larga plisada",
+    "cantidad": 20,
+    "precio": 37.50,
+    "nombre_proveedor": "BohoChic",
+    "eliminado": false
+  },
+  {
+    "nombre": "Camisa de lunares retro",
+    "cantidad": 24,
+    "precio": 28.99,
+    "nombre_proveedor": "VintageVibes",
+    "eliminado": false
+  },
+  {
+    "nombre": "Botines de cuero",
+    "cantidad": 18,
+    "precio": 60.50,
+    "nombre_proveedor": "LeatherFootwear",
+    "eliminado": false
+  },
+  {
+    "nombre": "Vestido floral de manga larga",
+    "cantidad": 14,
+    "precio": 42.00,
+    "nombre_proveedor": "FlowerPower",
+    "eliminado": false
+  }
+]

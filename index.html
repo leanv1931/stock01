@@ -11,20 +11,44 @@
     <h1>Sistema de Stock</h1>
   </header>
   <main>
+    <div class="container-button"> 
     <section class="container">
       <input type="text" id="nombreProducto" placeholder="Nombre del producto">
       <input type="text" id="cantidadProducto" placeholder="Cantidad">
+      <input type="text" id="precioProducto" placeholder="Precio">
+      <input type="text" id="proveedorProducto" placeholder="Proveedor">
+    </section>
+    <section class="container">
       <button id="agregarProducto">Agregar Producto</button>
       <button id="mostrarStock">Mostrar Todo</button>
-
     </section>
+    </div>
+    
+    <div class="container-button">
+    <section class="container">
+      <input type="text" id="nombreProductoInput" placeholder="Ingrese nombre producto">
+      <button id="buscarProducto">Buscar Producto</button>
+    </section>
+    </div>
 
+
+
+
+<ul>
     <ul id="inventory-list"></ul>
+    <ul id="inventory-list-api"></ul>
+</ul>    
 
   </main>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
   <script type="module" src="index.js"></script>
+  <script type="module" src="stock_api.js"></script>
   <script type="module" src="stock.js"></script>
+  <script type="module" src="buscar_producto.js"></script>
+
+
+
 
 </body>
 </html>
